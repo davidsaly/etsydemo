@@ -58,3 +58,13 @@ color:#0192b5;
 
 	}
 }
+
+.jumbotron {
+	background-image: url('jumbotron.jpg');
+	width:100%;
+	background-size:cover;
+	color: white;
+	h1, h2 {
+		font-family: guardian-egyppt, georgia, serif;
+	}
+}
